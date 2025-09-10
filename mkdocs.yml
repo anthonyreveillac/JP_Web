@@ -1,0 +1,14 @@
+site_name: Journée de rentrée 2025 de l'équipe de probabilités - IMT
+theme:
+  name: material
+  logo : assets/imt.jpg
+
+
+extra_css:
+  - stylesheets/style.css
+
+markdown_extensions:
+  - pymdownx.superfences
+  - admonition
+  - pymdownx.superfences
+  - tables
